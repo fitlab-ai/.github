@@ -1,6 +1,6 @@
 # .github
 
-FitLab AI organization-level configuration and profile.
+FIT Lab - AI organization-level configuration and profile.
 
 ## Structure
 
@@ -12,4 +12,4 @@ FitLab AI organization-level configuration and profile.
 
 ## Usage
 
-- **`profile/README.md`** — 组织首页展示内容（含项目介绍和路线图），访问 github.com/fitlab-ai 时自动呈现
+- **`profile/README.md`** — Organization homepage content (project overview and roadmap), automatically displayed when visiting github.com/fitlab-ai
