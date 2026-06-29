@@ -10,8 +10,12 @@ FIT Lab - AI builds tools and systems that bring standard engineering practices 
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| [agent-infra](https://github.com/fitlab-ai/agent-infra) | The collaboration layer for AI coding agents. Unified skills and workflows across Claude Code, Codex, Gemini CLI, and OpenCode — from issue to merged PR in 9 commands. | Active |
-| | *AI 编程 Agent 的协作层。跨 Claude Code、Codex、Gemini CLI、OpenCode 的统一技能与工作流——从 Issue 到合并 PR 只需 9 条命令。* | |
+| [agent-infra](https://github.com/fitlab-ai/agent-infra) | The collaboration layer for AI coding agents. Unified skills and workflows across Claude Code, Codex, Gemini CLI, and OpenCode — from issue to merged PR in 11 commands. | Active |
+| | *AI 编程 Agent 的协作层。跨 Claude Code、Codex、Gemini CLI、OpenCode 的统一技能与工作流——从 Issue 到合并 PR 只需 11 条命令。* | |
+| [fit-framework](https://github.com/fitlab-ai/fit-framework) | Java enterprise AI development framework: a multi-language function engine (FIT), the WaterFlow streaming orchestration engine, and FEL — a LangChain alternative for the Java ecosystem. | Active |
+| | *Java 企业级 AI 开发框架：多语言函数引擎（FIT）、流式编排引擎（WaterFlow），以及 Java 生态的 LangChain 替代方案（FEL）。* | |
+| [homebrew-tap](https://github.com/fitlab-ai/homebrew-tap) | Homebrew tap for installing FitLab AI command-line tools on macOS. | Tooling |
+| | *Homebrew tap，用于在 macOS 上安装 FitLab AI 命令行工具。* | |
 | More coming soon / *更多项目即将推出* | | |
 
 ## Roadmap / 路线图
