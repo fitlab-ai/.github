@@ -54,3 +54,13 @@ Grow beyond the core team.
   <br>*社区模板和最佳实践*
 - Cross-organization, cross-team collaboration patterns
   <br>*跨组织、跨团队协作模式*
+
+## Community / 社区
+
+- WeChat Official Account / 微信公众号：`FitFramework`
+- QQ Technical Group / QQ 技术交流群：`1029802553`
+
+<p align="center">
+  <img src="./assets/qrcode_for_wechat_gh.png" alt="FitFramework WeChat Official Account QR code" width="250">
+  <img src="./assets/qrcode_for_qq_01.png" alt="FitFramework QQ technical group QR code" width="250">
+</p>
