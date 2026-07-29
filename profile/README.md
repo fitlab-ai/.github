@@ -30,6 +30,8 @@ Establish standalone value for each core project.
   <br>*AI Agent 基础设施——完整的技能驱动任务生命周期：需求分析、技术设计、代码实现、代码审查、交付，在多个 AI TUI 中行为一致*
 - **Multi-Agent Collaboration** — Foundation for agents to work as a team: identity, memory, messaging, and coordinated task execution
   <br>*多 Agent 协作——Agent 团队协作基础：身份系统、共享记忆、消息通信、协调任务执行*
+- **[Agent Engineering Benchmark](https://github.com/orgs/fitlab-ai/discussions/1)** — A reproducible evaluation system for measuring the correctness, reliability, efficiency, and human cost of AI software engineering skills and workflows
+  <br>*[Agent 工程评估体系](https://github.com/orgs/fitlab-ai/discussions/1)——以可复现方式衡量 AI 软件工程 Skill 与工作流的正确性、可靠性、效率和人工成本*
 
 ### Phase 2: Integration — Connected Platform *(Planned)*
 ### *阶段二：互联互通——平台联动（规划中）*
